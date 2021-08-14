@@ -1,0 +1,20 @@
+#Ignore file
+*.exe
+*.xml
+*.txt
+*.mp4
+*.csv
+*.pptx
+*.zip
+*.rar
+*.xlsx
+2a_RegularExpressions.ipynb
+2b_TextPreProcessing.ipynb
+2b_TextProcessing_2.ipynb
+2b_TextProcessing_3.ipynb
+3a_nGrams.ipynb
+3c_WordEmbeddings_LSI.ipynb
+3e_word2vec.ipynb
+gensim_demo.ipynb
+words_analogy_and_visualizations_demo.ipynb
+.ipynb_checkpoints/
